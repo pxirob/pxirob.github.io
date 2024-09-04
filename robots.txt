@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pxirob.github.io/sitemap/sitemap.eAp.gz
